@@ -1,0 +1,4 @@
+--------------------------------------
+command a.out
+switch -a
+argument yo
