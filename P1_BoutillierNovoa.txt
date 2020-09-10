@@ -1,6 +1,25 @@
 --------------------------------------
-command  a.out
-switch   this
-argument is
-switch   a
-argument test
+command  P1
+--------------------------------------
+command  P1
+switch   o
+argument myCommand
+argument myMain.c
+argument myClass.c
+--------------------------------------
+command  P1
+argument w/java
+argument bash-3.2
+argument ls
+switch   l
+--------------------------------------
+command  P1
+switch   au
+switch   verbose
+argument w/java/
+argument kira:w/java/
+--------------------------------------
+command  P1
+argument one.bak
+argument two.bak
+argument *.log
