@@ -13,7 +13,6 @@ int main(int argc, char *argv[]) {
   vector<string> arguments(argv, argv+argc);
   int j, k;
 
-  remove(file_name);
   ofstream OutFile(file_name, ios::out | ios::app);
 
   OutFile << "--------------------------------------" << endl;
