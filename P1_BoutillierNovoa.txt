@@ -1,4 +1,6 @@
 --------------------------------------
-command a.out
-switch -a
-argument yo
+command  a.out
+switch   this
+argument is
+switch   a
+argument test
